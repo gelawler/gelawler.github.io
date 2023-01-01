@@ -6,8 +6,6 @@ Author URI: https://www.os-templates.com/
 Licence: <a href="https://www.os-templates.com/template-terms">Website Template Licence</a>
 */
 
-@import url("font-awesome.min.css");
-
 html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than the websites content - CSS3 */
 
 body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#979797; background-color:#FFFFFF;}
@@ -104,28 +102,6 @@ blockquote:after, q:after{content:' „'; font-size:26px; line-height:0;}
 #container #services article p{margin:0; padding:0;}
 #container #services article img{float:left; width:80px; height:80px; margin:0 10px 10px 0; padding:4px; border:1px solid #DEDEDE;}
 #container #services article footer{margin:10px 0 0 0;}
-
-/* Font Awesome Social Icons
---------------------------------------------------------------------------------------------------------------- */
-.faico{margin:0; padding:0; list-style:none;}
-.faico li{display:inline-block; margin:8px 5px 0 0; padding:0; line-height:normal;}
-.faico li:last-child{margin-right:0;}
-.faico a{display:inline-block; width:36px; height:36px; line-height:36px; font-size:18px; text-align:center;}
-
-.faico a{color:#FFFFFF; background-color:#E03F3F;}
-.faico a:hover{}
-
-.faicon-github:hover{background-color:#6e6d6d;}
-.faicon-dribble:hover{background-color:#EA4C89;}
-.faicon-facebook:hover{background-color:#3B5998;}
-.faicon-google-plus:hover{background-color:#DB4A39;}
-.faicon-linkedin:hover{background-color:#0E76A8;}
-.faicon-twitter:hover{background-color:#00ACEE;}
-.faicon-vk:hover{background-color:#4E658E;}
-
-
-/* ------------------------------------------------------------------------------------------------------------ */
-
 
 /*----------------------------------------------Footer-------------------------------------*/
 
