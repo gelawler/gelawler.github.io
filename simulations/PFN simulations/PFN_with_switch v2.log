@@ -1,0 +1,21 @@
+Circuit: * C:\Users\gerem\Documents\LTspiceXVII\PFN simulations\PFN_with_switch v2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Feb 23 09:34:14 2023
+Total elapsed time: 0.043 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3361
+traniter = 3357
+tranpoints = 1673
+accept = 1379
+rejected = 294
+matrix size = 16
+fillins = 0
+solver = Normal
+Matrix Compiler1:      34 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
